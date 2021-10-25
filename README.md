@@ -1,11 +1,19 @@
-<a href="#"><div align="center"><img width="150px" height="auto" src="https://user-images.githubusercontent.com/50899339/137167198-0a2eed00-ed0b-43a0-ad00-31fe84a728e5.png" /></div></a>
+<!-- <a href="#"><div align="center"><img width="150px" height="auto" src="https://user-images.githubusercontent.com/50899339/137167198-0a2eed00-ed0b-43a0-ad00-31fe84a728e5.png" /></div></a> -->
 
 <h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kiran Baby</h1>
 
+<br/>
+
+<a href="#"><img align= "left" width="125px" height="auto" src="https://user-images.githubusercontent.com/50899339/137167198-0a2eed00-ed0b-43a0-ad00-31fe84a728e5.png" /></a>
+
+<p float="left">
+    
 - 👀 I’m interested in **Machine Learning, Artificial Intelligence, Game Development And Web Development.**
 - 🌱 I’m currently learning **Python and DSA.**
 - 💞️ I’m looking to collaborate on **OpenSource Projects.**
 - 📫 How to reach me **kiranbaby256@gmail.com.**
+    
+</p>
 
 
 <br/>
