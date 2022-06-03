@@ -1,6 +1,6 @@
 <!-- <a href="#"><div align="center"><img width="150px" height="auto" src="https://user-images.githubusercontent.com/50899339/137167198-0a2eed00-ed0b-43a0-ad00-31fe84a728e5.png" /></div></a> -->
 
-<h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kiran Baby</h1>
+<h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Kiran Baby</h1>
 
 <br/>
 
