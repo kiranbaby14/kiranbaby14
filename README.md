@@ -36,22 +36,28 @@
 ## 🚀 Languages and Tools:
 <br/>
 <p align="left"> 
+    <a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
+    <a href="https://expressjs.com/"> <img src="https://img.icons8.com/color/48/000000/express-js.png"/> </a>
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://mongoosejs.com/"> <img src="https://img.icons8.com/color/48/000000/mongoose.png"/> </a> 
+    <a href="https://icons8.com/icon/39848/unity"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
+    <a href="https://icons8.com/icon/04OFrkjznvcd/android-studio"><img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/></a>
+    <a href="https://icons8.com/icon/qV-JzWYl9dzP/django"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+    <a href="https://www.python.org"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://docs.soliditylang.org/en/v0.8.17/"> <img src="https://img.icons8.com/color/48/000000/solidity.png"/> </a>
+    <a href="https://www.java.com/en/"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a>
+    <a href="https://www.tensorflow.org/"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
+    <a href="https://numpy.org/"> <img src="https://img.icons8.com/color/48/000000/numpy.png"/> </a>
+    <a href="https://pandas.pydata.org/"> <img src="https://img.icons8.com/color/48/000000/pandas.png"/> </a>
+    <a href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://icons8.com/icon/qV-JzWYl9dzP/django"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
-    <a href="https://icons8.com/icon/39848/unity"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
-    <a href="https://icons8.com/icon/04OFrkjznvcd/android-studio"><img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/></a>
-
 
 <br/>
-
 
 <br/>
 
