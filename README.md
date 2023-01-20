@@ -40,7 +40,8 @@
     <a href="https://expressjs.com/"> <img src="https://img.icons8.com/color/48/000000/express-js.png"/> </a>
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://mongoosejs.com/"> <img src="https://img.icons8.com/color/48/000000/mongoose.png"/> </a> 
+    <a href="https://mongoosejs.com/"> <img src="https://img.icons8.com/color/48/000000/mongoose.png"/> </a>
+    <a href="https://www.docker.com/"><img src="https://img.icons8.com/ios-filled/50/000000/docker.png"/></a>
     <a href="https://icons8.com/icon/39848/unity"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
     <a href="https://icons8.com/icon/04OFrkjznvcd/android-studio"><img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/></a>
     <a href="https://icons8.com/icon/qV-JzWYl9dzP/django"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
