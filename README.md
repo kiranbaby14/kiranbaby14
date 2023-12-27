@@ -9,7 +9,7 @@
 <p float="left">
     
 - 👀 I’m interested in **Machine Learning, Artificial Intelligence, Game Development And Web Development.**
-- 🌱 I’m currently learning **AI and Blockchain**
+- 🌱 I’m currently learning **AI and Microservices**
 - 💞️ I’m looking to collaborate on **OpenSource Projects.**
 - 📫 How to reach me **kiranbaby256@gmail.com.**
     
