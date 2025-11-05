@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **AI and Microservices**
 - 💞️ I’m looking to collaborate on **OpenSource Projects.**
 - 📫 How to reach me **kiranbaby256@gmail.com.**
-- 👉 Check out my other Github account **[Link here](https://github.com/kiranbaby1425)**
     
 </p>
 
