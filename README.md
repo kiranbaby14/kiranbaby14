@@ -18,14 +18,14 @@
 
 <br/>
 
-    
+
 ## 🏆 My Github Stats
 
 <br/>
-  
+
 <div>
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranbaby14&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="kiranbaby14's streak"/>  -->
-    <img src="https://github-readme-stats.vercel.app/api?username=kiranbaby14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="kiranbaby14's Github Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranbaby14&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="kiranbaby14's Top Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiranbaby14&theme=react" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiranbaby14&theme=react" alt="Top Languages"/>
 </div>
 
 
@@ -34,30 +34,28 @@
 
 
 ## 🚀 Languages and Tools:
-<br/>
-<p align="left"> 
-    <a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
-    <a href="https://expressjs.com/"> <img src="https://img.icons8.com/color/48/000000/express-js.png"/> </a>
-    <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://mongoosejs.com/"> <img src="https://img.icons8.com/color/48/000000/mongoose.png"/> </a>
-    <a href="https://www.docker.com/"><img src="https://img.icons8.com/ios-filled/50/000000/docker.png"/></a>
-    <a href="https://icons8.com/icon/39848/unity"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
-    <a href="https://icons8.com/icon/04OFrkjznvcd/android-studio"><img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/></a>
-    <a href="https://icons8.com/icon/qV-JzWYl9dzP/django"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
-    <a href="https://www.python.org"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://docs.soliditylang.org/en/v0.8.17/"> <img src="https://img.icons8.com/color/48/000000/solidity.png"/> </a>
-    <a href="https://www.java.com/en/"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a>
-    <a href="https://www.tensorflow.org/"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
-    <a href="https://numpy.org/"> <img src="https://img.icons8.com/color/48/000000/numpy.png"/> </a>
-    <a href="https://pandas.pydata.org/"> <img src="https://img.icons8.com/color/48/000000/pandas.png"/> </a>
-    <a href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 
+<br/>
+
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+    <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+    <img src="https://img.icons8.com/color/48/000000/mongoose.png" alt="Mongoose"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity"/>
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio"/>
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity"/>
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+    <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/>
+    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+</p>
 <br/>
 
 <br/>
