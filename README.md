@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **AI and Microservices**
 - 💞️ I’m looking to collaborate on **OpenSource Projects.**
 - 📫 How to reach me **kiranbaby256@gmail.com.**
-- 🚇 Developer of [minilondon3d.xyz](https://minilondon3d.xyz)
+- 🚇 Creator of [minilondon3d.xyz](https://minilondon3d.xyz)
      
 </p>
 
